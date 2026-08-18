@@ -1,0 +1,14 @@
+# Dependencies and Expo build artifacts.
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Native build artifacts.
+*.xcworkspace
+*.xcuserstate
+*.keystore
+*.jks
+
+# Local environment configuration.
+.env*.local
