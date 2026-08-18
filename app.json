@@ -15,6 +15,11 @@
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "net.teamnest.firstreact"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "23390329-e746-407a-9314-78b5e2105282"
+      }
     }
   }
 }
